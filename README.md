@@ -57,6 +57,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [StripesTime](https://github.com/cmspooner/StripesTime) by Chris Spooner - A automotive themed watchface with tach representing relative heart rate.
 * [Terminal](https://github.com/jdhartley/terminal-for-fitbit) by JD Hartley - Fitbit clock face styled to match a terminal session in a Unix environment.
 * [TH3](https://github.com/tyuen/THE-watchface) by Terry Yuen - Simple analog watchface with pill shaped hands for readability
+* [Minimal Digital Clock](https://github.com/CoderBlue674/fitbit-digital-clock) by Blue Coder - Simple digital clock for keeping track of heart rate, steps, and battery power
 
 ## Apps
 * [Air Quality](https://github.com/Ed2Bs/fitbit-air-quality-app) by Edin Bajrambasic - See air quality reports from 10k monitoring stations around the world.
